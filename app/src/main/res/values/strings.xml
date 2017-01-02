@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="m1">Dmenu1</string>
+    <string name="m2">Dmenu2</string>
+    <string name="m3">Dmenu3</string>
+</resources>
